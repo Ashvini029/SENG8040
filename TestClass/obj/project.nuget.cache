@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "+OraifOK6JPnHAeXrYyL4Plw9Qs5Ukj0AxTAiuSwGXZxe0FAy0gYaQU/zMbLJfMmubyqLN+0znwVD7hfTiF+yw==",
+  "success": true,
+  "projectFilePath": "/Users/ashvinipraisoody/Projects/NUnitDemonstration/TestClass/TestClass.csproj",
+  "expectedPackageFiles": [
+    "/Users/ashvinipraisoody/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit.console/3.16.3/nunit.console.3.16.3.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit.consolerunner/3.16.3/nunit.consolerunner.3.16.3.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit.extension.nunitprojectloader/3.6.0/nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit.extension.nunitv2driver/3.8.0/nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit.extension.nunitv2resultwriter/3.6.0/nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit.extension.teamcityeventlistener/1.0.7/nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit.extension.vsprojectloader/3.8.0/nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "/Users/ashvinipraisoody/.nuget/packages/nunit3testadapter/4.3.1/nunit3testadapter.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

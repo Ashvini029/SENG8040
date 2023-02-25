@@ -1,0 +1,12 @@
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/bin/Debug/net6.0/NUnitDemonstration.deps.json
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/bin/Debug/net6.0/NUnitDemonstration.dll
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/bin/Debug/net6.0/NUnitDemonstration.pdb
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/NUnitDemonstration.csproj.AssemblyReference.cache
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/NUnitDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/NUnitDemonstration.AssemblyInfoInputs.cache
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/NUnitDemonstration.AssemblyInfo.cs
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/NUnitDemonstration.csproj.CoreCompileInputs.cache
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/NUnitDemonstration.dll
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/refint/NUnitDemonstration.dll
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/NUnitDemonstration.pdb
+/Users/ashvinipraisoody/Projects/NUnitDemonstration/NUnitDemonstration/obj/Debug/net6.0/ref/NUnitDemonstration.dll
